@@ -1,25 +1,50 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './styles/custom.css';
+import Navbar from './components/Navbar';
+import { Routes, Route, Navigate } from 'react-router-dom';
 
-function App() {
+import Hero from './components/Hero';
+import AboutPage from './pages/aboutpage';
+import Projects from './components/Projects';
+import ServicesPage from './pages/servicespage';
+import Contact from './components/Contact';
+
+import IndalifPage from './pages/indalifpage';
+import CookSmartPage from './pages/cooksmartpage';
+import GastronomiaPage from './pages/gastronomiapage';
+import EntrenadorPage from './pages/entrenadorpage';
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <Routes>
+        {/* Home */}
+        <Route path="/" element={<Hero />} />
+
+        {/* Sobre mí */}
+        <Route path="/about" element={<AboutPage />} />
+
+        {/* Proyectos */}
+        <Route path="/projects" element={<Projects />} />
+
+        {/* Servicios */}
+        <Route path="/services" element={<ServicesPage />} />
+
+        {/* Contacto */}
+        <Route path="/contact" element={<Contact />} />
+
+        {/* Detalle de proyectos */}
+        <Route path="/indalif" element={<IndalifPage />} />
+        <Route path="/cooksmart" element={<CookSmartPage />} />
+        <Route path="/gastronomia" element={<GastronomiaPage />} />
+        <Route path="/entrenador" element={<EntrenadorPage />} />
+
+        {/* Redirigir rutas desconocidas a Home */}
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </>
   );
 }
-
-export default App;
