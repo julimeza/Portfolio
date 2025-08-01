@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.9e61d3e4.css",
-    "main.js": "/Portfolio/static/js/main.12d9779b.js",
+    "main.js": "/Portfolio/static/js/main.53a0bd38.js",
     "static/media/cooksmart1.png": "/Portfolio/static/media/cooksmart1.d7437df27346fa92d39f.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.03f3db544ba43bd10c3d.png",
     "static/media/cooksmart3.png": "/Portfolio/static/media/cooksmart3.b80ff9f3fdc2991c4aa1.png",
@@ -24,10 +24,10 @@
     "static/media/appEntrenar2.png": "/Portfolio/static/media/appEntrenar2.aa0b4fcd06d3d13b1e8e.png",
     "index.html": "/Portfolio/index.html",
     "main.9e61d3e4.css.map": "/Portfolio/static/css/main.9e61d3e4.css.map",
-    "main.12d9779b.js.map": "/Portfolio/static/js/main.12d9779b.js.map"
+    "main.53a0bd38.js.map": "/Portfolio/static/js/main.53a0bd38.js.map"
   },
   "entrypoints": [
     "static/css/main.9e61d3e4.css",
-    "static/js/main.12d9779b.js"
+    "static/js/main.53a0bd38.js"
   ]
 }
