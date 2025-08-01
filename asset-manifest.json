@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9e61d3e4.css",
+    "main.js": "/Portfolio/static/js/main.12d9779b.js",
+    "static/media/cooksmart1.png": "/Portfolio/static/media/cooksmart1.d7437df27346fa92d39f.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.03f3db544ba43bd10c3d.png",
+    "static/media/cooksmart3.png": "/Portfolio/static/media/cooksmart3.b80ff9f3fdc2991c4aa1.png",
+    "static/media/cooksmart2.png": "/Portfolio/static/media/cooksmart2.5400c56c909aca97a011.png",
+    "static/media/indalif2.png": "/Portfolio/static/media/indalif2.b6dbf71dc5af9ca48af5.png",
+    "static/media/indalif3.png": "/Portfolio/static/media/indalif3.34b6bdd560861419f5c9.png",
+    "static/media/gastronomia3.png": "/Portfolio/static/media/gastronomia3.93a0346c418c3b0b35fc.png",
+    "static/media/indalif5.png": "/Portfolio/static/media/indalif5.e83b63be39d39af1b7f9.png",
+    "static/media/gastronomia2.png": "/Portfolio/static/media/gastronomia2.bd1e7a958dc523f536a5.png",
+    "static/media/gastronomia4.png": "/Portfolio/static/media/gastronomia4.b6372cf523e226e8cd17.png",
+    "static/media/gastronomia1.png": "/Portfolio/static/media/gastronomia1.9db71a68212e79f08517.png",
+    "static/media/indalif4.png": "/Portfolio/static/media/indalif4.5817aa41179c52a0f18a.png",
+    "static/media/gastronomia5.png": "/Portfolio/static/media/gastronomia5.26116726e2590e159379.png",
+    "static/media/appEntrenar3.png": "/Portfolio/static/media/appEntrenar3.b6784497e50065491ba6.png",
+    "static/media/appEntrenar1.png": "/Portfolio/static/media/appEntrenar1.f67a95767865189e422b.png",
+    "static/media/appEntrenar5.png": "/Portfolio/static/media/appEntrenar5.12b894808cdb1f93184c.png",
+    "static/media/julieta.jpeg": "/Portfolio/static/media/julieta.79d04382986faef030c5.jpeg",
+    "static/media/indalif.png": "/Portfolio/static/media/indalif.67e183ee21f8b46f5249.png",
+    "static/media/appEntrenar4.png": "/Portfolio/static/media/appEntrenar4.48c6e82f30f9b493ae6d.png",
+    "static/media/appEntrenar2.png": "/Portfolio/static/media/appEntrenar2.aa0b4fcd06d3d13b1e8e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.9e61d3e4.css.map": "/Portfolio/static/css/main.9e61d3e4.css.map",
+    "main.12d9779b.js.map": "/Portfolio/static/js/main.12d9779b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e61d3e4.css",
+    "static/js/main.12d9779b.js"
+  ]
+}
